@@ -2,6 +2,8 @@ import Home from "./Pages/Home";
 import About from "./Pages/About";
 import { Route, Routes } from "react-router";
 import MainLayout from "./Layouts/MainLayout";
+import './App.css';
+
 
 
 function App() {
