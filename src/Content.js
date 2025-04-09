@@ -157,22 +157,22 @@ export const content = {
       {
         title: "Backend Development",
         para: "I specialize in building robust backend systems using Node.js, Express, and MongoDB, with secure APIs, efficient database management, and server-side logic to power scalable web applications.",
-        // logo: services_logo3, // Add the logo you want to use
+        logo: services_logo1,
       },
       {
         title: "Full-stack Development",
         para: "I offer end-to-end full-stack development, integrating frontend technologies like React with backend solutions like Node.js, ensuring seamless data flow, secure authentication, and dynamic web applications.",
-        // logo: services_logo4, // Add logo here
+        logo: services_logo2,
       },
       {
         title: "Database Management",
         para: "I provide optimized database solutions, including MongoDB and SQL databases, for structured and unstructured data storage, with powerful queries and scalability for your application needs.",
-        // logo: services_logo5, // Add logo here
+        logo: services_logo1,
       },
       {
         title: "API Development & Integration",
         para: "I develop custom RESTful APIs, integrate third-party services, and ensure smooth data exchange between the frontend and backend for enhanced functionality and performance.",
-        // logo: services_logo6, // Add logo here
+        logo: services_logo2,
       },
     ],
   },
