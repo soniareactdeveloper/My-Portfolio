@@ -188,12 +188,12 @@ export const content = {
       {
         title: "To-Do list",
         image: "https://i.ibb.co.com/0rMvvms/imgOne.jpg",
-        liveLink: 'https://soniareactdeveloper.github.io/TodoList/',
+        liveLink: 'https://todo-list-chi-ten-25.vercel.app/',
       },
       {
-        title: "Money Transactions",
-        image: "https://i.ibb.co.com/92Z49Bg/imgTwo.jpg",
-        liveLink: 'https://soniareactdeveloper.github.io/Money-Transaction/',
+        title: "Authentication",
+        image: "https://www.onelogin.com/blog/wp-content/uploads/2023/05/advanced-authentication-blog-image.jpg.optimal.jpg",
+        liveLink: 'https://auth-frontend-xv37.onrender.com',
       },
       {
         title: "Creative Website",
