@@ -181,10 +181,22 @@ export const content = {
     subtitle: "MY CREATION",
     project_content : [
       {
+          title: "Logistics Company Website",
+          image: "img src="https://i.ibb.co.com/wr66Qj8w/Screenshot-2025-09-11-071221.png",
+          liveLink: 'https://swift.commercialtirerepairllc.com/',
+        },
+        {
+          title: "Amazon Affiliate Website",
+          image: "https://i.ibb.co.com/LzkN3yMx/Screenshot-2025-09-11-070211.png",
+          liveLink: 'https://bestfitnessshop.com/',
+        },
+      {
         title: "E-commerce Website",
         image: "https://img.freepik.com/free-vector/online-shopping-concept-landing-page_52683-11069.jpg?t=st=1744179775~exp=1744183375~hmac=529729f739ec3617883ee1aa78bc34bc17b8287fa8a08e17a7cbafc67a713441&w=1380", 
         liveLink: 'https://florist-weld.vercel.app/',
       },
+      {
+        
       {
         title: "To-Do list",
         image: "https://i.ibb.co.com/0rMvvms/imgOne.jpg",
